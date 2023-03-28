@@ -12,5 +12,5 @@ xlwt
 canmatrix
 pandas
 numexpr
-lz4
 numpy>=1.23.0
+lz4
